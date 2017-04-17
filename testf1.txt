@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-Yet another issue.
+The real issue.
 
